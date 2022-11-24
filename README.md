@@ -20,9 +20,10 @@ Para este teste, os participantes devem reproduzir o layout disponível no link 
 O protótipo pode ser encontrado no [link indicado](https://xd.adobe.com/view/fae87770-c4c5-4cef-800d-6d9e7bfaeb99-afbb/).
 
 Botões de orientação:
+
 ![Botões de orientação do protótipo](/prototype_buttons.png)
 
-Os assets podem ser encontrados na raiz deste repositório.
+Os assets podem ser encontrados na raiz deste repositório ou clicando [aqui](https://github.com/cardume-digital/teste-dev/tree/main/assets).
 
 ### Tecnologias utilizadas
 - HTML5
